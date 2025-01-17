@@ -94,7 +94,7 @@ For any inquiries or feedback, please contact:
 
 - **Name**: Yağız Terzi
 - **GitHub**: [@yagizterzi](https://github.com/yagizterzi)
-- **Email**: yagizterzi@example.com
+
 
 ---
 
